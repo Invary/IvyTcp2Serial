@@ -47,7 +47,6 @@ GRBL CNC control software named [Candle](https://github.com/Denvi/Candle) for wi
 [FluidNC](https://github.com/bdring/FluidNC) , a CNC controller, can be connected via serial port, but also via wifi/telnet. <br />
 The following is an example of a setup in which CNC for wifi connection by [FluidNC](https://github.com/bdring/FluidNC) is controlled by a [Candle](https://github.com/Denvi/Candle). <br />
 <br />
-<br />
 1. Install virtual serial port [com0com](https://sourceforge.net/projects/com0com/files/com0com/3.0.0.0/). <br />
 2. In setup of com0com, check **`enumulate baudrate`** and add one pair of virtual serial port, COM19 & COM20. <br />
 3. [Download](https://github.com/Invary/IvyTcp2Serial/releases) latest version of IvyTcp2Serial and extract. <br />
@@ -59,8 +58,6 @@ The following is an example of a setup in which CNC for wifi connection by [Flui
 
 <br />
 
-
-<br />
 ##  Privacy policy
 - Do not send privacy information.
 - Do not display online ads.
